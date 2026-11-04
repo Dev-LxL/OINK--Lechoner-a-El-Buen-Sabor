@@ -1,0 +1,33 @@
+OINK! — Lechonería El Buen Sabor
+Previsualización V2 · LXL — CODE × LIHEN · 2026
+
+APERTURA
+1. Descomprime todo el ZIP.
+2. Abre index.html en Chrome, Edge o Firefox.
+3. Navega y prueba los botones de la propuesta.
+
+CONTENIDO
+- index.html
+- css/styles.css
+- js/app.js
+- assets/images/logo-oink-original.png (imagen original adjunta, sin alteraciones)
+- assets/images/*.jpg (recortes de una referencia gráfica conceptual previa; NO fotografías reales del negocio)
+
+FUNCIONES OPERATIVAS EN DEMO
+- Navegación por secciones y menú móvil
+- Agregar y quitar categorías de referencia
+- Resumen de consulta y botón para copiar el texto
+- Adaptación a móvil/tableta/escritorio
+
+NO INCLUIDO / NO CONECTADO
+- WhatsApp real, cobros, bases de datos, pedidos persistentes
+- Precios, productos, ubicación, horarios, testimonios o domicilios verificados
+- Publicación, hosting, dominio, SEO de producción
+
+REVISAR ANTES DE USO COMERCIAL
+- Confirmación de catálogo y fotografías auténticas del cliente
+- Datos reales y canal de pedidos
+- Aprobación de la interfaz, alcance y cotización
+- Tipografías Google requieren internet; hay fuentes alternativas locales
+
+Esta demo no modifica repositorios, Google Drive ni sitios publicados.
